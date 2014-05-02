@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/juno-chorus-clone/juno-chorus-clone.sch)
-    (date "21/04/2014 16:11:09")
+    (date "02/05/2014 12:44:44")
     (tool "eeschema (2013-07-07 BZR 4022)-stable"))
   (components
     (comp (ref U2)
