@@ -1,16 +1,16 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 02/05/2014 14:44:46
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 04/05/2014 09:10:45
 
 BeginCmp
 TimeStamp = /5354F965;
 Reference = C1;
-ValeurCmp = 470u;
+ValeurCmp = 1000u 25v;
 IdModule  = C2V10;
 EndCmp
 
 BeginCmp
 TimeStamp = /5354F958;
 Reference = C2;
-ValeurCmp = 470u;
+ValeurCmp = 1000u 25v;
 IdModule  = C2V10;
 EndCmp
 
@@ -145,13 +145,6 @@ TimeStamp = /5355E8CA;
 Reference = C21;
 ValeurCmp = 820p;
 IdModule  = C2;
-EndCmp
-
-BeginCmp
-TimeStamp = /53562B9B;
-Reference = C22;
-ValeurCmp = 2u2;
-IdModule  = C1V7;
 EndCmp
 
 BeginCmp
@@ -318,7 +311,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5355E846;
 Reference = P4;
-ValeurCmp = AUDIO_OUT_1;
+ValeurCmp = AUDIO_OUT_2;
 IdModule  = SIL-2;
 EndCmp
 
@@ -780,7 +773,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5356757A;
 Reference = R47;
-ValeurCmp = 10k;
+ValeurCmp = 1k;
 IdModule  = R3-LARGE_PADS;
 EndCmp
 
@@ -913,7 +906,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5356256C;
 Reference = R66;
-ValeurCmp = 100k;
+ValeurCmp = 10k;
 IdModule  = R3-LARGE_PADS;
 EndCmp
 
@@ -941,7 +934,7 @@ EndCmp
 BeginCmp
 TimeStamp = /53551643;
 Reference = R70;
-ValeurCmp = 220k;
+ValeurCmp = 33k;
 IdModule  = R3-LARGE_PADS;
 EndCmp
 
@@ -1124,14 +1117,14 @@ BeginCmp
 TimeStamp = /5354EA92;
 Reference = U2;
 ValeurCmp = LM7815CT;
-IdModule  = TO220_VERT;
+IdModule  = TO-220_Neutral123_Vertical_LargePads;
 EndCmp
 
 BeginCmp
 TimeStamp = /5354EAA1;
 Reference = U3;
 ValeurCmp = LM7915CT;
-IdModule  = TO220_VERT;
+IdModule  = TO-220_Neutral123_Vertical_LargePads;
 EndCmp
 
 BeginCmp
