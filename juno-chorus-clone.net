@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/juno-chorus-clone/juno-chorus-clone.sch)
-    (date "04/05/2014 09:10:40")
+    (date "04/05/2014 18:26:46")
     (tool "eeschema (2013-07-07 BZR 4022)-stable"))
   (components
     (comp (ref U2)
@@ -302,7 +302,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 53553CD6))
     (comp (ref R73)
-      (value 10k)
+      (value 22k)
       (libsource (lib device) (part R))
       (sheetpath (names /) (tstamps /))
       (tstamp 53553CE3))
@@ -552,7 +552,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5355E91A))
     (comp (ref R74)
-      (value 10k)
+      (value 22k)
       (libsource (lib device) (part R))
       (sheetpath (names /) (tstamps /))
       (tstamp 5355E920))

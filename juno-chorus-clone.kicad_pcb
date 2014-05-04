@@ -15,7 +15,7 @@
   (page A4)
   (title_block 
     (title "Roland Juno-60 chorus board clone")
-    (rev 2)
+    (rev 3)
     (company "GliGli's DIY")
   )
 
@@ -3288,7 +3288,7 @@
     (fp_text reference R74 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.397 1.27) (thickness 0.2032)))
     )
-    (fp_text value 10k (at 0 0 90) (layer F.SilkS) hide
+    (fp_text value 22k (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.397 1.27) (thickness 0.2032)))
     )
     (fp_line (start -3.81 0) (end -3.302 0) (layer F.SilkS) (width 0.3048))
@@ -5948,7 +5948,7 @@
     (fp_text reference R73 (at 0 0 270) (layer F.SilkS)
       (effects (font (size 1.397 1.27) (thickness 0.2032)))
     )
-    (fp_text value 10k (at 0 0 270) (layer F.SilkS) hide
+    (fp_text value 22k (at 0 0 270) (layer F.SilkS) hide
       (effects (font (size 1.397 1.27) (thickness 0.2032)))
     )
     (fp_line (start -3.81 0) (end -3.302 0) (layer F.SilkS) (width 0.3048))
@@ -6320,7 +6320,7 @@
   (gr_text "GliGli's DIY" (at 198.12 148.59) (layer B.Cu)
     (effects (font (size 2.54 1.651) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "Juno chorus v2" (at 189.23 153.67) (layer B.Cu)
+  (gr_text "Juno chorus v3" (at 189.23 153.67) (layer B.Cu)
     (effects (font (size 2.54 1.651) (thickness 0.3)) (justify mirror))
   )
   (gr_line (start 205.74 157.48) (end 175.26 157.48) (angle 90) (layer Edge.Cuts) (width 0.1))
@@ -7172,7 +7172,7 @@
   (segment (start 71.12 141.4683) (end 63.9951 134.3434) (width 1.016) (layer B.Cu) (net 106))
   (segment (start 71.12 143.51) (end 71.12 141.4683) (width 1.016) (layer B.Cu) (net 106))
   (segment (start 193.04 86.36) (end 193.04 73.66) (width 1.524) (layer B.Cu) (net 107))
-  (segment (start 194.31 90.17) (end 196.85 90.17) (width 1.524) (layer B.Cu) (net 107) (tstamp 53660239) (status 800000))
+  (segment (start 194.31 90.17) (end 196.85 90.17) (width 1.524) (layer B.Cu) (net 107) (tstamp 53660239))
   (segment (start 193.04 88.9) (end 194.31 90.17) (width 1.524) (layer B.Cu) (net 107) (tstamp 53660238))
   (segment (start 193.04 86.36) (end 193.04 88.9) (width 1.524) (layer B.Cu) (net 107) (tstamp 5366023D))
   (segment (start 185.42 67.31) (end 189.23 71.12) (width 1.524) (layer B.Cu) (net 107))
