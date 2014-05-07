@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 04/05/2014 18:27:06
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 07/05/2014 20:41:58
 
 BeginCmp
 TimeStamp = /5354F965;
@@ -1025,14 +1025,14 @@ EndCmp
 BeginCmp
 TimeStamp = /53552D58;
 Reference = R83;
-ValeurCmp = 4k7;
+ValeurCmp = 10k;
 IdModule  = R3-LARGE_PADS;
 EndCmp
 
 BeginCmp
 TimeStamp = /5355E870;
 Reference = R84;
-ValeurCmp = 4k7;
+ValeurCmp = 10k;
 IdModule  = R3-LARGE_PADS;
 EndCmp
 
@@ -1095,7 +1095,7 @@ EndCmp
 BeginCmp
 TimeStamp = /53551584;
 Reference = RV5;
-ValeurCmp = 47kA;
+ValeurCmp = 100k;
 IdModule  = POTA_Fav;
 EndCmp
 
